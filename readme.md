@@ -43,3 +43,6 @@ Below are the instructions for your Github submission. Everything must be submit
 * “TeamName Source Code” contains all source code used in the creation of the solution.
 * “TeamName Input Data” contains all input data used in the creation of the solution.
 * “TeamName Compiled Models” contains all compiled versions of models used in the solution.
+
+## Additional Reference Information
+Several additional references have beeen provided that teams may optionally use for the challenge. For more information, view the [Reference](reference/readme.md) section of this repository.
