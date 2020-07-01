@@ -1,6 +1,6 @@
 
 # AI/ML Challenge 2020
-Below are the instructions for your Github submission. Everything must be submitted prior to the challenge deadline of August 20th, 2020. For more information, please visit challenge.gov.
+Below are the instructions for your Github submission. Everything must be submitted prior to the challenge deadline of August 20th, 2020. For more information, please visit the [challenge website](https://www.challenge.gov/challenge/GSA-artificial-intelligence-AI-machine-learning-ML-challenge/).
  
 ## General Instructions:
  
