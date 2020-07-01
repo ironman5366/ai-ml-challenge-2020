@@ -1,5 +1,16 @@
 
 # AI/ML Challenge 2020
+
+
+## Registering for the Challenge
+The first task is to register your team for the challenge. To do that, follow the instructions on the [challenge website](https://www.challenge.gov/challenge/GSA-artificial-intelligence-AI-machine-learning-ML-challenge/).
+The 
+
+## Training Data For The Challenge
+The training data you can use for the challenge will be posted to this page by 5 p.m. ET on July 6. 
+
+
+## Submitting Your Solution
 Below are the instructions for your Github submission. Everything must be submitted prior to the challenge deadline of August 20th, 2020. For more information, please visit the [challenge website](https://www.challenge.gov/challenge/GSA-artificial-intelligence-AI-machine-learning-ML-challenge/).
  
 ## General Instructions:
