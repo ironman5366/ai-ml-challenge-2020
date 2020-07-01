@@ -4,7 +4,7 @@
 
 ## Registering for the Challenge
 The first task is to register your team for the challenge. To do that, follow the instructions on the [challenge website](https://www.challenge.gov/challenge/GSA-artificial-intelligence-AI-machine-learning-ML-challenge/).
-The 
+ 
 
 ## Training Data For The Challenge
 The training data you can use for the challenge will be posted to this page by 5 p.m. ET on July 6. 
