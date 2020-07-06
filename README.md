@@ -7,6 +7,7 @@ The first task is to register your team for the challenge. To do that, follow th
  
 
 ## Training Data For The Challenge
+We are providing the initial set of training data that contains Clause ID, Clause Text, and Classification (0 for 'Acceptable' and 1 for "Unacceptable'). We will provide updates to the training data during the challenge, and list them in the table below.
 
 | Data set                                                                   | Description                                              | Data published |
 | -------------------------------------------------------------------------- | -------------------------------------------------------- | -------------- | 
