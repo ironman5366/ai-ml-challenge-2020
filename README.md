@@ -7,7 +7,9 @@ The first task is to register your team for the challenge. To do that, follow th
  
 
 ## Training Data For The Challenge
+
 | Data set                                                                   | Description                                              | Data published |
+| -------------------------------------------------------------------------- | -------------------------------------------------------- | -------------- | 
 | [Training Data Set 1 v1 ](data/AI_ML_Challenge_Training_Data_Set_1_v1.csv) | Initial batch of data containing some control characters | 7/6/2020       |
 
 
