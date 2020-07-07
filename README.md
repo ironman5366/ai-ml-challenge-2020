@@ -17,7 +17,7 @@ Format of training data:
 
 | Clause ID                                                                  | Clause Text                                              | Classification |
 | -------------------------------------------------------------------------- | -------------------------------------------------------- | -------------- | 
-| Integer generated for tracking individual clauses. | Section or paragraph of a EULA document that has been reviewed for acceptability to GSA. | Indication if this clause is acceptable (0) or unacceptable (1) to GSA.  |
+| Integer generated for tracking individual clauses. | Section or paragraph of a EULA document that has been reviewed for acceptability to GSA. | Indication if this clause is acceptable (0) or unacceptable (1) to GSA. **This is the indicator we are asking teams to help us predict**  |
 
 
 ## Submitting Your Solution
