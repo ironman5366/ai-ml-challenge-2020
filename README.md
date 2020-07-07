@@ -7,11 +7,17 @@ The first task is to register your team for the challenge. To do that, follow th
  
 
 ## Training Data For The Challenge
-We are providing the initial set of training data that contains Clause ID, Clause Text, and Classification (0 for 'Acceptable' and 1 for "Unacceptable'). We will provide updates to the training data during the challenge, and list them in the table below.
+We are providing the initial set of training data thas been extracted from a EULA document and had identifying information, such as company name, removed for this challenge. We will provide updates to the training data during the challenge, and list them in the table below.
 
 | Data set                                                                   | Description                                              | Date published |
 | -------------------------------------------------------------------------- | -------------------------------------------------------- | -------------- | 
-| [Training Data Set 1 v1 ](data/AI_ML_Challenge_Training_Data_Set_1_v1.csv) | Initial batch of data containing some control characters | 7/6/2020       |
+| [Training Data Set 1 v1 ](data/AI_ML_Challenge_Training_Data_Set_1_v1.csv) | Initial batch of data. Known issues: clause text contains control characters, such as embedded Line Feed (/n) characters. | 7/6/2020       |
+
+Format of training data:
+
+| Clause ID                                                                  | Clause Text                                              | Classification |
+| -------------------------------------------------------------------------- | -------------------------------------------------------- | -------------- | 
+| Integer generated for tracking individual clauses. | Section or paragraph of a EULA document that has been reviewed for acceptability to GSA. | Indication if this clause is acceptable (0) or unacceptable (1) to GSA.  |
 
 
 ## Submitting Your Solution
