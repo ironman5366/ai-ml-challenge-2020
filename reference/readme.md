@@ -11,7 +11,7 @@ The following items are available for reference by teams submitting solutions to
 
 * [sample_eula_2.docx](sample_eula_2.docx) - A sample of a EULA in MS Word format. This is the type of source document that the solution should be able to process.
 
- [sample_eula_1.pdf](sample_eula_1.pdf) - A sample of a EULA in PDF. This is the type of source document that the solution should be able to process. 
+* [sample_eula_1.pdf](sample_eula_1.pdf) - A sample of a EULA in PDF. This is the type of source document that the solution should be able to process. 
 
 * [sample_eula_2.pdf](sample_eula_2.pdf) - A sample of a EULA in PDF. This is the type of source document that the solution should be able to process.
 
