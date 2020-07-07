@@ -7,7 +7,7 @@ The first task is to register your team for the challenge. To do that, follow th
  
 
 ## Training Data For The Challenge
-We are providing the initial set of training data thas been extracted from a EULA document and had identifying information, such as company name, removed for this challenge. We will provide updates to the training data during the challenge, and list them in the table below.
+We are providing the initial set of training data thas been extracted from actual EULA documents and had identifying information, such as company name, removed. We may provide updates to the training data during the challenge, and list them in the table below. 
 
 | Data set                                                                   | Description                                              | Date published |
 | -------------------------------------------------------------------------- | -------------------------------------------------------- | -------------- | 
